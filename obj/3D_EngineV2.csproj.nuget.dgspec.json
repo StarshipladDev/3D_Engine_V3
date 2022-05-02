@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ozzy\\Documents\\Code\\C#\\3D_Enigne_V2\\3D_EngineV2\\3D_EngineV2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ozzy\\Documents\\Code\\C#\\3D_Enigne_V2\\3D_EngineV2\\3D_EngineV2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ozzy\\Documents\\Code\\C#\\3D_Enigne_V2\\3D_EngineV2\\3D_EngineV2.csproj",
+        "projectName": "3D_EngineV2",
+        "projectPath": "C:\\Users\\Ozzy\\Documents\\Code\\C#\\3D_Enigne_V2\\3D_EngineV2\\3D_EngineV2.csproj",
+        "packagesPath": "C:\\Users\\Ozzy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ozzy\\Documents\\Code\\C#\\3D_Enigne_V2\\3D_EngineV2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ozzy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
